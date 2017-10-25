@@ -14,3 +14,5 @@ for i, list in listvar[:]:
 printf "make the selection"
   printf [i] for appsr[i]
   exit 0
+  exit 1
+  exit 3

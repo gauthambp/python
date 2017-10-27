@@ -8,15 +8,3 @@ newlistvar=[x.split('.')[-1] for x in listvar]
 #Added on 27Oct to list the appservers
 for i,j in enumerate(newlistvar):
     print i,j
-=======
-print listvar[1]
-for i, list in listvar[:]:
-    appsvr[i]=list
-    print appsrv[i]
-
-printf "make the selection"
-  printf [i] for appsr[i]
-  exit 0
-  exit 1
-  exit 3
->>>>>>> origin/master

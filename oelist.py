@@ -8,3 +8,4 @@ newlistvar=[x.split('.')[-1] for x in listvar]
 #Added on 27Oct to list the appservers
 for i,j in enumerate(newlistvar):
     print i,j
+#dummy comment
